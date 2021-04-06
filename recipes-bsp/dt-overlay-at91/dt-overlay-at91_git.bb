@@ -13,7 +13,7 @@ SRC_URI = "git://github.com/elockman/dt-overlay-at91.git;branch=feature/xsite;pr
 
 PV = "1.0+git${SRCPV}"
 #SRCREV = "b4383488119b298940ced981eadf5d1765581fa9"
-SRCREV = "19d6327193dfa30e650493eee8187108969c2080"
+SRCREV = "09f9cc11a9d26473761ce85e63074196630adf91"
 
 DEPENDS = "virtual/kernel u-boot-mkimage-native dtc-native"
 
